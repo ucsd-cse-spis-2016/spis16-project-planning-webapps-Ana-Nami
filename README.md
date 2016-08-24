@@ -1,1 +1,4 @@
-# spis16-project-planning-webapps-Ana-Nami
+# Names, Area, Mentor
+Ana M. Nami M., Webapps, Mentor: Niral
+
+# Brief Description
