@@ -4,9 +4,6 @@
 Ana M. Nami M., Webapps, Mentor: Niral
 
 # Brief Description
-We are very uncertain about our project plans. Although we are still considering other ideas, the following explain some of our potential plans.
-
-####Plan 1
 Users will instead select their mode of travel, the importance of various aspects of travel their mode of travel, and activities/sightseeing that the user enjoys, as well as other aspects of traveling (e.g. crime, education, places to find food, weather, health, retail sales, entertainment, hospitals, earthquakes, airline, gas station, et cetera). For travel, they may also choose (or not choose) certain regions of the United States where they may desire to travel to. For each user, the website will compute this information to rank various places that may suit individual. Each place will be linked to information about each of the mentioned aspects of traveling. If the user inputs a specific location, the website will provide the information about this specific place. For travel, the website can create a "roadmap" that plans out the food/travel/et cetera for the trip.
 
 #Stages
