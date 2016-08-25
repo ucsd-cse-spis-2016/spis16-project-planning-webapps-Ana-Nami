@@ -34,3 +34,12 @@ Users will instead select their mode of travel, the importance of various aspect
 #Useful Links
 
 https://developers.google.com/places/javascript/
+
+# Google Places API in Python links
+
+* https://github.com/slimkrazy/python-google-places
+* https://developers.google.com/places/web-service/search
+* https://andrewpwheeler.wordpress.com/2014/05/15/using-the-google-places-api-in-python/
+* http://stackoverflow.com/questions/18485044/where-do-i-find-the-google-places-api-client-library-for-python
+* http://stackoverflow.com/questions/34282235/how-to-get-place-details-from-place-id-in-google-places-api-for-python
+
