@@ -45,4 +45,5 @@ https://developers.google.com/places/javascript/
 
 #Useful link for later
 * https://developers.google.com/places/web-service/search
+* https://developers.google.com/places/supported_types
 
