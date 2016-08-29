@@ -46,4 +46,5 @@ https://developers.google.com/places/javascript/
 #Useful link for later
 * https://developers.google.com/places/web-service/search
 * https://developers.google.com/places/supported_types
+* http://treyhunner.com/2016/02/how-to-merge-dictionaries-in-python/
 
